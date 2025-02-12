@@ -1,0 +1,32 @@
+.visitHistory{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;   
+   
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.Reason{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;   
+}
+.Consulted_doctor{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;  
+}
+.appt_date{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.prescription_detail{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    width: 50%;
+}

@@ -1,0 +1,84 @@
+.profile_container{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    margin-top: 40px;
+    
+}
+.sidebar{
+
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
+
+    /* background-color: blanchedalmond; */
+}
+.sidebar2{
+    margin-top: 40px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border:2px solid blue;
+
+
+    /* background-color: blanchedalmond; */
+}
+.Avatar{
+    margin-bottom: 30px;
+}
+.AvatarPersonalDetails{
+    display:flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+}
+.keys{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.values{
+    text-align: left;
+}
+.key {
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.value{
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.patientHistory{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.visitHistory{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;   
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.Reason{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;   
+}
+.Consulted_doctor{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;  
+}
+.appt_date{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+}

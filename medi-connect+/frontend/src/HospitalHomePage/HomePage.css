@@ -1,0 +1,59 @@
+.topbar{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin-right: 50px; */
+}
+.hospitaName{
+    width: 15%;
+}
+.NavLinks{
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-around;
+    /* margin-left: 10px; */
+}
+.hospialstat{
+    display: flex;
+    flex-direction: column;
+
+}
+.statsOfHospital{
+    display: flex;
+    flex-direction: row;
+    background-color: #00a3c8;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.statNumber{
+    color: white;
+    font-size: 24px;
+    font-weight: 'bold';
+}
+.statText{
+    color:whitesmoke;
+    font-size: 18px;
+}
+.footer{
+    padding: 15px;
+    display: flex;
+    flex-direction: 'row';
+    justify-content: center;
+    background-color:aqua;
+
+}
+.footer-Box{
+    padding: 20px;
+    display: flex;
+    flex-direction: 'row';
+    justify-content: space-around;
+    /* background-color:aqua; */
+}
+.HeaderTag:hover{
+    text-decoration: underline;
+    text-decoration-color:orangered;
+    
+}

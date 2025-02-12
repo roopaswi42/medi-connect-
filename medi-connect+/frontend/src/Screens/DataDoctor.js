@@ -1,0 +1,92 @@
+export const DoctorData = [
+    {
+      name: "Robert",
+      specialist: "Neuro",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Thanos",
+      specialist: "Cardiologist",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Gamora",
+      specialist: "Gynacologist",
+      avialable: false,
+      route: "/main/appointment",
+    },
+    {
+      name: "Joker",
+      specialist: "Psychologist",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Spiderman",
+      specialist: "ENT Specialist",
+      avialable: false,
+      route: "/main/appointment",
+    },
+    {
+      name: "Newton",
+      specialist: "Neuro",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Ramsy",
+      specialist: "Cardiologist",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Robert J",
+      specialist: "Gynacologist",
+      avialable: false,
+      route: "/main/appointment",
+    },
+    {
+      name: "frenden",
+      specialist: "Psychologist",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Ahsley",
+      specialist: "ENT Specialist",
+      avialable: false,
+      route: "/main/appointment",
+    },
+    {
+      name: "Perrry",
+      specialist: "Neuro",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Smith",
+      specialist: "Cardiologist",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "hales",
+      specialist: "Gynacologist",
+      avialable: false,
+      route: "/main/appointment",
+    },
+    {
+      name: "Buttler",
+      specialist: "Psychologist",
+      avialable: true,
+      route: "/main/appointment",
+    },
+    {
+      name: "Ben",
+      specialist: "ENT Specialist",
+      avialable: false,
+      route: "/main/appointment",
+    },
+  ];

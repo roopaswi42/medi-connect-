@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  color: "white";
+  text-align: center;
+}
+.app {
+  width: 100%;
+  height: 100%;
+  background-image: url(../asserts/auth-cover-bg\ \(1\).jpg);
+  /* background-color: #462de0; */
+  display: flex;
+  justify-content: flex-end;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: top;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.appbg {
+  border: "2px solid red";
+  height: 100vh;
+
+  /* background-repeat: no-repeat; */
+}
+.titile {
+  /* background-color: #462de0; */
+  font-size: 18px;
+  padding: 20px;
+}
+.images1 {
+  width: 250px;
+}
+.images {
+  
+  margin-left: 10px;
+  height: 500px;
+  max-width: 500px;
+}
+h4 {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Roboto";
+}
+.conta {
+  /* background-color: #462de0; */
+  border-radius: 10;
+}
+.link {
+  margin-top: 10;
+  font-style: none;
+  color: "blue";
+  text-decoration: "None";
+  text-align: "center";
+  text-transform: uppercase;
+}
+
+.submitbtn:hover {
+  background-color: #27178a;
+}
+
+.boxer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.forgot_pw {
+  text-decoration: none;
+}
+
+
